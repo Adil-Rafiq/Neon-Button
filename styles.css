@@ -5,6 +5,13 @@
     --clr-bg : hsl(323 21% 16%);
 }
 
+@media screen and (min-width : 600px) {
+    a{
+        width: 200px;
+        max-width: 300px;
+    }
+}
+
 *{
     margin: 0;
     padding: 0;
